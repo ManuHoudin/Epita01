@@ -1,0 +1,112 @@
+[33mcommit 17f67aff6239e07c6d540cec26dca611aa1dabde[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 90154ad 8719403
+Author: Emmanuel Houdin <emmanuel.houdin@bnpparibas.com>
+Date:   Tue Mar 17 10:17:39 2020 +0100
+
+    Merge branch 'threeway'
+
+[33mcommit 87194039676328f4662a0f91f0d1f646791fe86d[m
+Author: Emmanuel Houdin <emmanuel.houdin@bnpparibas.com>
+Date:   Tue Mar 17 10:16:05 2020 +0100
+
+    Second commit pour threeway
+
+[33mcommit 138013c931c6fd8e1acdddef6b005b5982f9b9cc[m
+Author: Emmanuel Houdin <emmanuel.houdin@bnpparibas.com>
+Date:   Tue Mar 17 10:15:29 2020 +0100
+
+    Premier commit pour threeway
+
+[33mcommit 90154ad3c20005c430f4db87e6c596f7da2fdd98[m
+Author: Emmanuel Houdin <emmanuel.houdin@bnpparibas.com>
+Date:   Tue Mar 17 10:00:32 2020 +0100
+
+    Second commit pour fastforward
+
+[33mcommit eae626c85b653baf97c18a5cacef3b9d6fc2a4db[m
+Author: Emmanuel Houdin <emmanuel.houdin@bnpparibas.com>
+Date:   Tue Mar 17 09:59:45 2020 +0100
+
+    Premier commit pour fastforward
+
+[33mcommit 61b57a091dbe74fc7f9d1f6d792037ecb9c70ad1[m[33m ([m[1;33mtag: start[m[33m)[m
+Author: Emmanuel Houdin <emmanuel.houdin@bnpparibas.com>
+Date:   Tue Mar 17 09:39:52 2020 +0100
+
+    Ajout du fichier master pour l'exercice 5
+
+[33mcommit f1c4ff8301ba53165109884db61faff8aedc3cf9[m
+Author: Emmanuel Houdin <emmanuel.houdin@bnpparibas.com>
+Date:   Tue Mar 17 09:26:25 2020 +0100
+
+    Ajout du fichier exo5.txt
+
+[33mcommit 2f3ba9818854bfdf2c78885854514801d262cc2d[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Emmanuel Houdin <emmanuel.houdin@bnpparibas.com>
+Date:   Tue Mar 17 09:22:01 2020 +0100
+
+    Revert "Ajout de tabouret"
+    
+    This reverts commit 4319db3396c48765550eebf3f6f98578f3918433.
+
+[33mcommit 4319db3396c48765550eebf3f6f98578f3918433[m
+Author: Emmanuel Houdin <emmanuel.houdin@bnpparibas.com>
+Date:   Tue Mar 17 09:20:43 2020 +0100
+
+    Ajout de tabouret
+
+[33mcommit 052e36fc3963b2a7038ef08f9400d33056be4249[m
+Author: Emmanuel Houdin <emmanuel.houdin@bnpparibas.com>
+Date:   Tue Mar 17 09:18:38 2020 +0100
+
+    Ajout de fou à pieds bleus
+
+[33mcommit 462c45dd9e8371d84c2891b35240482a539f5896[m
+Author: Emmanuel Houdin <emmanuel.houdin@bnpparibas.com>
+Date:   Tue Mar 17 09:15:55 2020 +0100
+
+    Ajout d'un fichier animaux.txt
+
+[33mcommit 050f50772c656a557c74335648cdccc2faec28b6[m
+Author: Emmanuel Houdin <emmanuel.houdin@bnpparibas.com>
+Date:   Mon Mar 16 19:01:18 2020 +0100
+
+    Revert "Ajout de la chaise"
+    
+    This reverts commit 80ff2b929555df90039b6769b994d249d81969ab.
+
+[33mcommit 80ff2b929555df90039b6769b994d249d81969ab[m
+Author: Emmanuel Houdin <emmanuel.houdin@bnpparibas.com>
+Date:   Mon Mar 16 18:59:34 2020 +0100
+
+    Ajout de la chaise
+
+[33mcommit 45e25ea2deeba84a00ed037ae35293f6c6c8b811[m
+Author: Emmanuel Houdin <emmanuel.houdin@bnpparibas.com>
+Date:   Mon Mar 16 18:53:29 2020 +0100
+
+    Ajout de bibinome
+
+[33mcommit 6e3f92076c8eebf92c1ce1a14ba235d19a8f0d95[m
+Author: Emmanuel Houdin <emmanuel.houdin@bnpparibas.com>
+Date:   Mon Mar 16 18:16:57 2020 +0100
+
+    Ajout du fichier prenoms.txt
+
+[33mcommit 6bbbf4f8f22a688aa7517c5c536bc87a9372838d[m
+Author: Houdin <55787812+ManuHoudin@users.noreply.github.com>
+Date:   Mon Mar 16 18:13:10 2020 +0100
+
+    Create FichierBinome.txt
+
+[33mcommit 2a3685c3c73c122b09edd33cf0a586e6fa213a5a[m
+Author: Emmanuel Houdin <emmanuel.houdin@bnpparibas.com>
+Date:   Mon Mar 16 18:10:31 2020 +0100
+
+    Création de Emmanuel
+
+[33mcommit b8cf4a9eaf085eace5418b55860179700dd0cb64[m
+Author: Emmanuel Houdin <emmanuel.houdin@bnpparibas.com>
+Date:   Mon Mar 16 18:03:12 2020 +0100
+
+    Création du fichier1
