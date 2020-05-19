@@ -27,7 +27,8 @@ public class Product {
     }
 
     public void look() {
-        System.out.println(String.format(name+" : "+price+"%n"+description));
+        System.out.println(String.format(name + " : " + price + "%n" + description));
+    }
 
     public void buy(Bill bill, Integer quantity) {
     }

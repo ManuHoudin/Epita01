@@ -4,11 +4,12 @@ import java.util.Map;
 public class Bill {
 
     private Customer customer ;
-    private HashMap<Product, Integer> products;
+    private Map<Product, Integer> products = new HashMap<Product, Integer>();
+    private Delivery delivery;
 
-    public Bill(Customer customer, Map products) {
+    public Bill(Customer customer, Delivery delivery) {
         this.customer = customer;
-        this.products = products;
+        this.delivery = delivery;
     }
 
     public void addProduct(Product product, Integer quantity) {
@@ -19,7 +20,7 @@ public class Bill {
         return customer;
     }
 
-    public HashMap<Product, Integer> getProducts() {
+    public Map<Product, Integer> getProducts() {
         return products;
     }
 }

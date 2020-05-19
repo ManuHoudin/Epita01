@@ -1,18 +1,18 @@
 public class Customer {
 
     String fullname;
-    String adress;
+    String address;
 
-    public Customer(String fullname, String adress) {
+    public Customer(String fullname, String address) {
         this.fullname = fullname;
-        this.adress = adress;
+        this.address = address;
     }
 
     public String getFullname() {
         return fullname;
     }
 
-    public String getAdress() {
-        return adress;
+    public String getAddress() {
+        return address;
     }
 }
