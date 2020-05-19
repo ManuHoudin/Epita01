@@ -4,6 +4,12 @@ public class Product {
     String description;
     double price;
 
+    public Product(Object o, Object o1, String name, Object o2) {
+    }
+
+    public Product(String name, String description, double price) {
+    }
+
     public String getName() {
         return name;
     }
