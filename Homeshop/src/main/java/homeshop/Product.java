@@ -1,13 +1,17 @@
+package homeshop;
+
+import homeshop.Bill;
+
 public class Product {
 
-    String name;
-    String description;
-    double price;
-
-    public Product(Object o, Object o1, String name, Object o2) {
-    }
+    private String name;
+    private String description;
+    private double price;
 
     public Product(String name, String description, double price) {
+        this.name = name;
+        this.description = description;
+        this.price = price;
     }
 
     public String getName() {

@@ -1,3 +1,5 @@
+package homeshop;
+
 public class Customer {
 
     String fullname;

@@ -1,3 +1,5 @@
+package homeshop;
+
 public class ExpressDelivery  implements Delivery {
 
     private String city;
@@ -11,5 +13,10 @@ public class ExpressDelivery  implements Delivery {
         if (city.equals("Paris"))
         return 6.99;
         else return 9.99;
+    }
+
+    @Override
+    public String getInfo() {
+        return "Livraison à domicile express "+getPrice();
     }
 }

@@ -1,3 +1,5 @@
+package homeshop;
+
 public class RelayDelivery implements Delivery {
 
     private int relayNumber;
@@ -14,5 +16,9 @@ public class RelayDelivery implements Delivery {
             return 2.99;
         else
             return 4.99;
+    }
+    @Override
+    public String getInfo() {
+        return "Livraison en point relais "+getPrice();
     }
 }

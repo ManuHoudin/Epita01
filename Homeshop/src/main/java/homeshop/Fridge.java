@@ -1,3 +1,5 @@
+package homeshop;
+
 public class Fridge extends Product {
 
     private int liter;
