@@ -1,2 +1,1 @@
-Fichier1
-modification du fichier depuis Git
+modification du fichier en local
