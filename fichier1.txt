@@ -1,1 +1,2 @@
-modification en local encore
+<<<<<<< HEAD
+>>>>>>> 760ded411b8ad46389e5dccfcfacd4b7fe926058
